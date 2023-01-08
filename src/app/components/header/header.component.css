@@ -1,0 +1,39 @@
+header
+{
+  display: inline-flex;
+  justify-content: space-between;
+  width: 100%;
+  background-color: rgb(55, 42, 114);
+  padding-left: 0px;
+  padding-right: 0px;
+}
+header input
+{
+  border-radius: 10px;
+  border-style: solid;
+  background-color: rgb(101, 81, 188);
+  border: 0px;
+  font-family:"Archivo Black",sans-serif;
+}
+header input:hover
+{
+  opacity: 0.8;
+}
+header input:active
+{
+  opacity: 0.5;
+}
+
+header img
+{
+  max-height: 4cm;
+  align-self: flex-start;
+}
+header form 
+{
+  align-self: center;
+}
+header .img-container
+{
+  position: relative;
+}

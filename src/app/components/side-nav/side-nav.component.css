@@ -1,0 +1,14 @@
+  .nav-inicio-wrap
+  {
+    position:relative;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    background-color: rgb(121, 121, 255);
+  }
+  .nav-inicio
+  {
+    position: sticky;
+    height: auto;
+    top:0px;
+  }

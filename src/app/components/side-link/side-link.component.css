@@ -1,0 +1,15 @@
+.nav li a
+{
+  font-family: 'Gowun Batang', serif;
+  font-size:x-large;
+  color: black;
+  text-decoration-line: none;
+}
+.nav li:hover
+{
+  opacity: 0.7;
+}
+.nav li:active
+{
+  opacity: 0.8;
+}
